@@ -1,1 +1,77 @@
-(function()local ___oI1ooOl11oIolII1oO="lwCKBwRBR1YhcTjTCnjYO32YINL4EZb3YKR1YhcTVFNjbCoJ6dzUBXLke1bfjIldwORMbsUWeplETKLsSZckEdY0fiBDKdb2FSP37ffWKxPCR2dAA4JhNWEec3S" local ___IlOIl0O10oIlOll00I="nXgkrDtslAjT939jnB7bwFKlzx" local _IlOOl0O10l1OOO0l1I=492 local __00OI1Io1oO10IIlo0O=101 local __I1lI11OIIl0l0OlIol=592 local ___1IIlOl10l1oI0101o1=525 local ___O0o0o110Io10o10O0o=585 local function __O1oI10l1IollloI10I(___oI1ooOl11oIolII1oO,___IlOIl0O10oIlOll00I)local ___ollIOII1101IOOoOl1="" local __IoIo1I00IoO00lOo0I="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/" local ___IOooI10Il0OOo1looO={}for _1I100oo0oo0IolOo0l=1,#___oI1ooOl11oIolII1oO do local c=___oI1ooOl11oIolII1oO:sub(_1I100oo0oo0IolOo0l,_1I100oo0oo0IolOo0l)for j=1,#__IoIo1I00IoO00lOo0I do if __IoIo1I00IoO00lOo0I:sub(j,j)==c then table.insert(___IOooI10Il0OOo1looO,j-1)break end end end for _1I100oo0oo0IolOo0l=1,#___IOooI10Il0OOo1looO do local v=___IOooI10Il0OOo1looO[_1I100oo0oo0IolOo0l]local k=___IlOIl0O10oIlOll00I:byte(((_1I100oo0oo0IolOo0l-1)%#___IlOIl0O10oIlOll00I)+1)___ollIOII1101IOOoOl1=___ollIOII1101IOOoOl1..string.char(bit32 and bit32.bxor(v,k)or v~k)end return ___ollIOII1101IOOoOl1 end local ___IOooI10Il0OOo1looO=__O1oI10l1IollloI10I(___oI1ooOl11oIolII1oO,___IlOIl0O10oIlOll00I)assert(load(___IOooI10Il0OOo1looO))()end)()
+--[[(function()local 
+__Iolo0OoOo1OloI10Io1I
+101O11o0="KOK3BQmp34K0jsH14SDAiwwfFdnNYj
+ZWW2LIRAIXBQmp39BkmrWypXECpg5VMSrWTnbWsrIXMZ
+FjL7j+YoIgvktm9EkLONWdSP8EVoTWaiZBCEZ2EG7r557Py
+4Tn9Edo2NQBsDOVAqbZ8LVoPYj/Zc6i38K0js
+N3haOGrkGu893I5qHa8LVXMZlaLD8B4pLfs
+kTniIWaiq9RKUnfRqETTwRCNI1Mt78+
+pI8MnT4C6CuONods7rIc2Y/OqQ
+LDNE3Ee8t21ECm4O+uUZCjXteRTgcNhWbW++C
+X7PhSbwr/721zkL0sBIDUw2DCVibZqYVSoZ4
+8YGaICjinWLgy4rnCFBWo0WAPCrI57fQGqa
+TKHE7NA26irKwzmbv8AUe/8qJTAyKE+SYXtR
+OPHJyISW/iwUZ3tPI4FbV6W8BPbkYEjTlHrLGENEBB
+f86yqKVy9LnEBIKno2SCenpR0SYHbMXVaXgHA6+j30xxtMjtR
+CHrr6QPSYmvJHG6LJoTEbjre/impU8y4TeC6kLo5iMGcjZcpUXfk
+YJa3t2Qh2rzcKkxx9loGYLz1GETE1ECjGDa2cPxNa/NRy6y93ks6DwobgIjx1UQcS
+NZqeCKqsTKEDpjXndy8AVt8QullMViqtuWCxLKBSCywNVKKfnBaxdy8AyqhLxtTML0h5FLXpZ
+vZG/DNWusHjaVejhYWrfMkTYCEcXIrkfKenceiXmS2cJX3fjSA9LmsNgztGtOaDJintZFHpaEvYYb
+tdIDEFwFezRIoIZMkOm9FCW2N2dSCIWc2G5CowISVRuBc3uz2E8srD7tqy43oWBsdo2/PHaDoVWThajtC
+ihY1L8+zfyjRNi2xwBqGiUvzHAB+/ORNCyKLMJyt31msn55HU41hqEPG2mF2BEdUVGNcGgHA6+j30xxtMj3
+yITGwtDKQyNVuV/3mQOGGO60Thr5t7lz+Q5YbIWytpBGW9
+6foZTQwRBWGJnNd9m+wCwlpOkoVZPiq5u8t
+rJcpHGDrwIPEG/rdah4pLhvnreiaQJuo5UNWnQW
+mnXBhXT8dalWcDvl8Kk91M+hVZPiq5dMRmVQZ4
+GDLwWPEajr9a+eQUfvBN488kuorkZFH
+paEvYYbtLCXdY9EC92mpVm75Qm9EU
+Ww1sUNWuRZDGDa0wTGF1mUEh0RwW1rh
+LxtTML0h5FLXpZvZoGfrVWTZlitDa+m2L/zBOm9ECW
+3LpMNbrZVoTWWqdHGGO6NUzo21X1j8KyjVy42o2dqdr
+wcqHH8NVIPnFjVDii4QL/+mL7tQDD" local ___l0l00o1
+I0oOllOIl01Oll0oIOOIO="chjSd2SNWYdPCHbWMumgGDYqc
+rGypFw6sD9g" local _Ol111o0lloIlOo1olO0IIIOIoOlI=618 loc
+al __0I0II1l00IOl1OOoO00Oll
+1lIlO0=846 local _o00o110olOOlI0oOl1
+OOoOOOIIOO=816 local __Io01lolI1I0loOloO010I1lOlOoO=
+560 local _II1ooIo10I10lOooO1oOoOl0o
+I0O=243 local _01l1IlIlol0I0l00lOOlllOOOIll=607 local ___o0I11IllO
+11oI110OO1Oo1O01l1l=824 local __01I
+IOIIo0ollIoloolooO00IOO10=847 local __OlO1IIIIIlI
+I01oIoIlO0oOOOloO=645 local __oIlII11Il0lIol0I0I0IloO1lO1l=361 local fu
+nction ___111IoIO0O0111o0lIoo011Oo010o(__Iolo0OoOo1OloI10Io1I101O11o0,___l0l0
+0o1I0oOllOIl01Oll0oIOOIO)local ___Iool
+1O1IIlo0IOoIlOI00O0lIO0O="" local ___IOl
+llIoO00oIIoOO0l00lloIO10I="ABCDEFGHIJKLMNOPQRST
+UVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+local __IOl000oIIIIOIIOoll1IIo0IOOoI={}for ___00Oo
+OooIo01lOlOoO10I0ooO0IOo=1,#__Iolo0OoOo1OloI10Io1I1
+01O11o0 do local c=__Iolo0OoOo1OloI10Io1I101O11o0
+:sub(___00OoOooIo01lOlOoO10I0ooO0IOo,___00OoOooIo01lOlOoO10I0
+ooO0IOo)for j=1,#___IOlllIoO00oIIoOO0
+l00lloIO10I do if ___IOlllIoO00oIIoOO0l00ll
+oIO10I:sub(j,j)==c then table.insert(__IOl000oI
+IIIOIIOoll1IIo0IOOoI,j-1)break end end 
+end for ___00OoOooIo01lOlOoO10I0ooO0I
+Oo=1,#__IOl000oIIIIOIIOoll1IIo0IOOoI d
+o local v=__IOl000oIIIIOIIOoll1IIo0IOO
+oI[___00OoOooIo01lOlOoO10I0ooO0IOo]local 
+k=___l0l00o1I0oOllOIl01Oll0oIOOIO:byte
+(((___00OoOooIo01lOlOoO10I0ooO0IOo-1)
+%#___l0l00o1I0oOllOIl01Oll0oIOOIO)+1)__
+_Iool1O1IIlo0IOoIlOI00O0lIO0O=___Iool1O1II
+lo0IOoIlOI00O0lIO0O..string.char(bit3
+2 and bit32.bxor(v,k)or v~k)end return _
+__Iool1O1IIlo0IOoIlOI00O0lIO0O end l
+ocal __IOl000oIIIIOIIOoll1IIo0IOOoI=
+___111IoIO0O0111o0lIoo011Oo010o(__
+Iolo0OoOo1OloI10Io1I101O11o0,___l0
+l00o1I0oOllOIl01Oll0oIOOIO)a
+ssert(load(__IOl000oIIIIOIIOoll
+1IIo0IOOoI))()end)()]]--
+
+Kheaster = true
+ZyleTzy1= true
+
+crisly = true
+crislycute = true
